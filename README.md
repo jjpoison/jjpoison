@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I'm Poison! 
 
-<!--
-**jjpoison/jjpoison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👣 Progress :
+-> I'm currently learning Python.
+-> I've only made testing code and demos so far.
 
-Here are some ideas to get you started:
+🎯 Objectives : 
+-> Make impressive and unqiue projects.
+-> Apply my knowledge in Science and Technology in the future.
+-> Have a rich tapestry and background in creative and innovating activities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎭 About me:
+-> I am a student in high school, majoring in Science.
+-> I am experimenting different originative pursuits such as drawing, writing, reading, and in this case, coding.
+-> I am looking forward to apply my future coding skills and work up a profile to apply for a job.
