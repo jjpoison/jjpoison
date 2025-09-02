@@ -24,6 +24,6 @@
 
 -> I am experimenting different originative pursuits such as drawing, writing, reading, producing music, and in this case, coding.
 
--> I am willig to use my future coding skills and work up a profile and apply for a job that requires those skills.
+-> I am willig to use my future coding skills to work up a profile and apply for a job that requires those skills.
 
 ### Ask me about anything!
