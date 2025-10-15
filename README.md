@@ -10,7 +10,7 @@ I'm using <strong>GitHub</strong> in order to track my progress while I learn pr
 </br>
 <h2>Currently working on:</h2>
 <ul>
-  <li>Number Guessing Game</li>
+  <li>Calculator</li>
 </ul>
 
 <h2>Currently learning:</h2>
