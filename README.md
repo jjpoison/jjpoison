@@ -3,11 +3,10 @@
 I'm using <strong>GitHub</strong> in order to track my progress while I learn programming.
 <br>
 </br>
-<img src="https://media.tenor.com/DtD4LZbctTIAAAAM/tamm-cat.gif" alt="Cat giving a thumbs up" width="200">
-
-<em>**Check out my recent projects!**</em>
+I lowk don't know what I'm doing
 <br>
 </br>
+<img src="https://media.tenor.com/pgHqgYJcc5AAAAAi/dexter-dexter-morgan.gif" width="200">
 <h2>Currently working on:</h2>
 <ul>
   <li>Calculator</li>
