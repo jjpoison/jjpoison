@@ -5,7 +5,7 @@ I'm using <strong>GitHub</strong> in order to track my progress while I learn pr
 </br>
 <h2>Currently working on:</h2>
 <ul>
-  <li>Encryptor</li>
+  <li>Encryptor (Cryptography)</li>
 </ul>
 
 <h2>Currently learning:</h2>
