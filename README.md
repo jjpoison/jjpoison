@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<h1>I'm Poison!!</h1>
+<h1>I'm Poison!</h1>
 I'm using <strong>GitHub</strong> in order to track my progress while I learn programming.
 <br>
 </br>
-I lowk don't know what I'm doing
-<br>
-</br>
-<img src="https://media.tenor.com/pgHqgYJcc5AAAAAi/dexter-dexter-morgan.gif" width="200">
 <h2>Currently working on:</h2>
 <ul>
-  <li>Calculator</li>
+  <li>Encryptor</li>
 </ul>
 
 <h2>Currently learning:</h2>
